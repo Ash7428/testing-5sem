@@ -28,7 +28,7 @@ pip install pytest pytest-cov
 
 ```bash
 pytest --cov=calculator --cov-report=term-missing -v
-
+```
 
 
 
