@@ -22,11 +22,13 @@
 
 1. Установить зависимости:
 ```bash
-pip install pytest pytest-cov```
+pip install pytest pytest-cov
 
-```
+2. Запуск тестов и проверка покрытия
+
+```bash
 pytest --cov=calculator --cov-report=term-missing -v
-```
+
 
 
 
